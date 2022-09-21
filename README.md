@@ -1,7 +1,7 @@
 # DistroForensics
 ![sistema-operativo](https://user-images.githubusercontent.com/98583912/191450193-36100a5d-4c2e-4a75-b4b3-5bf1e2e2eac1.jpg)
 
-<h3><p class="fw-bold">Elenco di Distro WINDOWS - macOS - Linux</p><h3>
+<h3><p class="fw-bold">Elenco di Distro WINDOWS - macOS - Linux
 
 Elenco completo di siti dove scaricare le Distro che possono essere utili a chi si accinge o è già in stato avanzato nell'ambito dell'OSINT, Penetration Testing, Digital Forensics e quindi anche della Sicurezza Informatica.
 
@@ -42,3 +42,4 @@ In più vi segnalo questo sito dov'è possibile avviare macchine emulatrici onli
 
  - [Rufus](https://rufus.ie/it/)
  - [Arsenal Recon -Image Mounter](https://arsenalrecon.com/products/arsenal-image-mounter)
+ </p><h3>
