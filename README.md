@@ -20,6 +20,14 @@ Elenco completo di siti dove scaricare le Distro che possono essere utili a chi 
 - [GitHub - OffenOsint](https://lnkd.in/dCjvQ8QG) - Virtual Machine - Osint
 - [GitHub - CommandoVM](https://lnkd.in/dVvG5Ctp) - CyberSec
 
+### Software di Virtualizzazione 
+![DE-virtuelle-maschine2](https://user-images.githubusercontent.com/98583912/191456702-ad973540-2dbb-4f8a-8f1c-7982efbdfedb.png)
+- [Oracle VM VirtualBox](https://www.virtualbox.org/)
+- [VMWARE - Workstation](https://www.vmware.com/it/products/workstation-pro.html)
+- [Hyper-V - Windows](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)
+- [Kernel Virtual Machine - Ubuntu](https://www.linux-kvm.org/page/Main_Page)
+
+
 ## Oltre alle classiche ISO:
 - [Ubuntu](https://lnkd.in/deF4wffK)
 - [Windows 11](https://lnkd.in/dRbe3-YZ)
