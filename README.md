@@ -56,4 +56,3 @@ Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool 
  - [Rufus](https://rufus.ie/it/)
  - [Arsenal Recon -Image Mounter](https://arsenalrecon.com/products/arsenal-image-mounter)
  </p><h3>
- 
