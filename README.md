@@ -20,6 +20,21 @@ Elenco completo di siti dove scaricare le Distro che possono essere utili a chi 
 - [GitHub - OffenOsint](https://lnkd.in/dCjvQ8QG) - Virtual Machine - Osint
 - [GitHub - CommandoVM](https://lnkd.in/dVvG5Ctp) - CyberSec
 
+# Emulatori
+
+```
+Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool sudivisi per categorie.
+```
+
+
+- [Onworks](https://www.onworks.net/)
+
+## Android
+- [BlueStacks](https://www.bluestacks.com/it/index.html)
+- [Genymotion](https://www.genymotion.com/)
+- [Android-Emulators](https://android-emulators.com/amiduos)
+- [NoxPlayer](https://www.bignox.com/)
+
 ### Software di Virtualizzazione 
 ![DE-virtuelle-maschine2](https://user-images.githubusercontent.com/98583912/191456702-ad973540-2dbb-4f8a-8f1c-7982efbdfedb.png)
 - [Oracle VM VirtualBox](https://www.virtualbox.org/)
@@ -34,8 +49,6 @@ Elenco completo di siti dove scaricare le Distro che possono essere utili a chi 
 - [MacOs](https://lnkd.in/djqJXc7R)
 
 
-In più vi segnalo questo sito dov'è possibile avviare macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool sudivisi per categorie.
-- [Onworks](https://www.onworks.net/)
 
 # Software montaggio chiavetta USB
 ![rufus-128](https://user-images.githubusercontent.com/98583912/191453153-342a2017-bb4e-4893-a078-5ea43d9d716b.png)
@@ -43,3 +56,4 @@ In più vi segnalo questo sito dov'è possibile avviare macchine emulatrici onli
  - [Rufus](https://rufus.ie/it/)
  - [Arsenal Recon -Image Mounter](https://arsenalrecon.com/products/arsenal-image-mounter)
  </p><h3>
+ 
