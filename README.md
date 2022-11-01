@@ -1,7 +1,8 @@
-# DistroForensics
-![sistema-operativo](https://user-images.githubusercontent.com/98583912/191450193-36100a5d-4c2e-4a75-b4b3-5bf1e2e2eac1.jpg)
+![Titolo](https://user-images.githubusercontent.com/98583912/199348596-cfb5765a-47b4-4e3b-b9f7-5ad80927289b.gif)
 
-<p align="center"><br><b>Elenco di Distro WINDOWS - macOS - Linux</b></p>
+# <p align="center" size="5"><br><b>Elenco di Distro WINDOWS - macOS - Linux</b></p>
+
+![sistema-operativo](https://user-images.githubusercontent.com/98583912/191450193-36100a5d-4c2e-4a75-b4b3-5bf1e2e2eac1.jpg)
 
 Elenco completo di siti dove scaricare le Distro che possono essere utili a chi si accinge o è già in stato avanzato nell'ambito dell'OSINT, Penetration Testing, Digital Forensics e quindi anche della Sicurezza Informatica.
 
