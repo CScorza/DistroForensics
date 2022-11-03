@@ -30,7 +30,7 @@ Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool 
 
 - [Onworks](https://www.onworks.net/)
 
-## Android
+## Emulaotri Android
 - [BlueStacks](https://www.bluestacks.com/it/index.html)
 - [Genymotion](https://www.genymotion.com/)
 - [Android-Emulators](https://android-emulators.com/amiduos)
