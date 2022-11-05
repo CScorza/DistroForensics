@@ -28,7 +28,9 @@ INDICE
 ## Virtual Machine
 |[GitHub - OffenOsint](https://lnkd.in/dCjvQ8QG)|Virtual Machine - OSINT|
 | :--- | :--- |
-|[GitHub - CommandoVM](https://lnkd.in/dVvG5Ctp)|CyberSec|
+|[GitHub - Commando-VM](https://lnkd.in/dVvG5Ctp)|CyberSec|
+|[GitHub - ThreatPursuit-VM](https://github.com/mandiant/ThreatPursuit-VM)|Cyber threat intelligence|
+|[GitHub - Flare-VM](https://github.com/mandiant/flare-vm)|Digital Forensics 
 
 ## ISO standard:
 |[Ubuntu](https://lnkd.in/deF4wffK)|[Windows 11](https://lnkd.in/dRbe3-YZ)|[MacOs](https://lnkd.in/djqJXc7R)|
