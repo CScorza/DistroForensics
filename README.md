@@ -24,6 +24,7 @@ INDICE
 |![Tsurugi](https://user-images.githubusercontent.com/98583912/200109462-8db925e1-cd4c-4512-9e86-88f9288d0282.gif)|[Tsurugi Linux](https://lnkd.in/dat5feg5)| - OSINT + CyberSecurity + Digital Forensics|
 |![AthenaOS](https://user-images.githubusercontent.com/98583912/200109607-762c159e-6eed-4f77-8296-e1f88e0b9c5e.gif)|[AthenaOS](https://lnkd.in/dp_XPTH6)| - CyberSecurity + Digital Forensics|
 |![Forlex](https://user-images.githubusercontent.com/98583912/200109947-147dfdd4-ab95-4f45-9dbd-d66a1d9971d4.gif)|[Forlex](https://lnkd.in/dtXW7yv2)| - CyberSecurity + Digital Forensics|
+|![Paladin](https://user-images.githubusercontent.com/98583912/200123619-f4cdb6c2-e11a-4985-9fe1-91d5f5937242.gif)|[PALADIN EDGE](https://sumuri.com/product/paladin-edge-64-bit/)| - Digital Forensics|
 
 ## Virtual Machine OVA
 |[GitHub - OffenOsint](https://lnkd.in/dCjvQ8QG)|Virtual Machine - OSINT|
