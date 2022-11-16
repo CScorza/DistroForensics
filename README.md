@@ -9,7 +9,7 @@
 
 INDICE
 
-|[**ISO**](https://github.com/CScorza/DistroForensics#iso)|[**Emulatori**](https://github.com/CScorza/DistroForensics##emulatori)|[**Virtualizzazione**](https://github.com/CScorza/DistroForensics##software-di-virtualizzazione)|[**USB LIVE**](https://github.com/CScorza/DistroForensics##software-montaggio-chiavetta-usb)|
+|[**ISO**](https://github.com/CScorza/DistroForensics#iso)|[**Emulatori**](https://github.com/CScorza/DistroForensics#emulatori)|[**Virtualizzazione**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**USB LIVE**](https://github.com/CScorza/DistroForensics#software-montaggio-chiavetta-usb)|
 | :---: | :---: | :---: | :---: |
 
 ## iSO 
