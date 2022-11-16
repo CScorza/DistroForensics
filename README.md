@@ -73,6 +73,5 @@ Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool 
 | :---: | :---: | :---: | :---: | 
 |[**Guida**](https://www.ilsoftware.it/articoli.asp?tag=Rufus-guida-all-uso-del-programma-per-creare-supporti-avviabili_15137)|[**GUIDA**](https://arsenalrecon.com/arsenal-image-mounter-aim-walkthrough)|[**Guida Ventoy - Megazine Computer Idea**](https://github.com/CScorza/DistroForensics/files/10019777/VENTOY.pdf)|[**Guida**](https://it.manuals.plus/batocera/balena-etcher-software-manual)|
 
-![Image](https://user-images.githubusercontent.com/98583912/200110454-3a9d98db-1603-435e-a29d-74f1f2229759.gif)
-
+![Image](https://user-images.githubusercontent.com/98583912/202136602-5a6862a0-4d6e-4544-a0d2-e45d12f331be.gif)
 
