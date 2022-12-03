@@ -59,11 +59,10 @@ Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool 
 # Software di Virtualizzazione 
 ![Desktop](https://user-images.githubusercontent.com/98583912/200107060-5b8fe295-4e99-47df-9b4d-e8910afd15cf.gif)
 
-|[**Oracle VM VirtualBox**](https://www.virtualbox.org/)|[**VMWARE - Workstation**](https://www.vmware.com/it/products/workstation-pro.html)|[**Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|[**Kernel Virtual Machine - Ubuntu**](https://www.linux-kvm.org/page/Main_Page)|
-| :---: | :---: | :---: | :---: |
-|![Logo](https://user-images.githubusercontent.com/98583912/200106772-d95c27c3-80e2-4f9d-b1b6-d286dc062ae6.gif)|![VMWare](https://user-images.githubusercontent.com/98583912/200106780-b256e684-4c15-4ecb-84e0-485f401522ef.gif)|![Hyper V](https://user-images.githubusercontent.com/98583912/200106918-b77994a9-44ec-4188-afee-142f89d8b473.gif)|![KVM](https://user-images.githubusercontent.com/98583912/200106922-a4618181-f88c-4025-9baa-3298273585fa.gif)|
-|**Guideéé||||
-|[**Guide - VirtualBox**](https://www.aranzulla.it/come-usare-virtualbox-1054804.html)|[**Guide - VMWare**](https://www.aranzulla.it/come-virtualizzare-con-vmware-29315.html)|[**Guide - Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/create-virtual-machine)|[**Guide - Kernel Virtual Machine - Ubuntu**](https://ubuntu.com/blog/kvm-hyphervisor)|
+|[**Oracle VM VirtualBox**](https://www.virtualbox.org/)|[**VMWARE - Workstation**](https://www.vmware.com/it/products/workstation-pro.html)|[**Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v)|[**Kernel Virtual Machine - Ubuntu**](https://www.linux-kvm.org/page/Main_Page)|[**UTM Virtualizzatore per MAC**](https://mac.getutm.app/)|
+| :---: | :---: | :---: | :---: | :---: |
+|![Logo](https://user-images.githubusercontent.com/98583912/200106772-d95c27c3-80e2-4f9d-b1b6-d286dc062ae6.gif)|![VMWare](https://user-images.githubusercontent.com/98583912/200106780-b256e684-4c15-4ecb-84e0-485f401522ef.gif)|![Hyper V](https://user-images.githubusercontent.com/98583912/200106918-b77994a9-44ec-4188-afee-142f89d8b473.gif)|![KVM](https://user-images.githubusercontent.com/98583912/200106922-a4618181-f88c-4025-9baa-3298273585fa.gif)|![logo](https://user-images.githubusercontent.com/98583912/205454627-85f75d01-88ec-4b6a-ab7e-638b39550e48.png)|
+|[**Guide - VirtualBox**](https://www.aranzulla.it/come-usare-virtualbox-1054804.html)|[**Guide - VMWare**](https://www.aranzulla.it/come-virtualizzare-con-vmware-29315.html)|[**Guide - Hyper-V - Windows**](https://learn.microsoft.com/it-it/virtualization/hyper-v-on-windows/quick-start/create-virtual-machine)|[**Guide - Kernel Virtual Machine - Ubuntu**](https://ubuntu.com/blog/kvm-hyphervisor)|[**Guida - UTM**](https://docs.getutm.app/)|
 
 
 # Software montaggio chiavetta USB
