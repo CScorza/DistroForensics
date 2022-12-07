@@ -68,9 +68,9 @@ Macchine emulatrici online di Windows, MacOS e Linux, oltre ad un serie di tool 
 # Software montaggio chiavetta USB
 ![rufus-128](https://user-images.githubusercontent.com/98583912/191453153-342a2017-bb4e-4893-a078-5ea43d9d716b.png)
 
-|[**Rufus**](https://rufus.ie/it/)|[**Arsenal Recon - Image Mounter**](https://arsenalrecon.com/products/arsenal-image-mounter)|[**Ventoy**](https://www.ventoy.net/en/index.html)|[**Balena Etcher**](https://www.balena.io/etcher/)|
-| :---: | :---: | :---: | :---: | 
-|[**Guida**](https://www.ilsoftware.it/articoli.asp?tag=Rufus-guida-all-uso-del-programma-per-creare-supporti-avviabili_15137)|[**GUIDA**](https://arsenalrecon.com/arsenal-image-mounter-aim-walkthrough)|[**Guida Ventoy - Megazine Computer Idea**](https://github.com/CScorza/DistroForensics/files/10019777/VENTOY.pdf)|[**Guida**](https://it.manuals.plus/batocera/balena-etcher-software-manual)|
+|[**Rufus**](https://rufus.ie/it/)|[**Arsenal Recon - Image Mounter**](https://arsenalrecon.com/products/arsenal-image-mounter)|[**Ventoy**](https://www.ventoy.net/en/index.html)|[**Balena Etcher**](https://www.balena.io/etcher/)|[**Easy2Boot**](https://easy2boot.xyz/)
+| :---: | :---: | :---: | :---: | :---: |
+|[**GUIDA**](https://www.ilsoftware.it/articoli.asp?tag=Rufus-guida-all-uso-del-programma-per-creare-supporti-avviabili_15137)|[**GUIDA**](https://arsenalrecon.com/arsenal-image-mounter-aim-walkthrough)|[**GUIDA Ventoy - Megazine Computer Idea**](https://github.com/CScorza/DistroForensics/files/10019777/VENTOY.pdf)|[**GUIDA**](https://it.manuals.plus/batocera/balena-etcher-software-manual)|[**GUIDA**](https://www.ilsoftware.it/articoli.asp?tag=Chiavetta-USB-bootable-come-prepararla_12763)
 
 ![Image](https://user-images.githubusercontent.com/98583912/202136602-5a6862a0-4d6e-4544-a0d2-e45d12f331be.gif)
 
