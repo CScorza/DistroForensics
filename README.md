@@ -8,6 +8,7 @@
 <p align="center" size="5"><br><b> Elenco delle Distro Linux per l'OSINT, Penetration Testing, Digital Forensics e della CyberSecurity </b></p>
 
 **INDICE**
+
 **Come aprire un file immagine ISO?**
 ```
 Aprire, decomprimere o montare un file ISO è molto semplice, 
