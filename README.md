@@ -8,7 +8,12 @@
 <p align="center" size="5"><br><b> Elenco delle Distro Linux per l'OSINT, Penetration Testing, Digital Forensics e della CyberSecurity </b></p>
 
 **INDICE**
-
+**Come aprire un file immagine ISO?**
+```
+Aprire, decomprimere o montare un file ISO è molto semplice, 
+sia che si usino le funzioni integrate su Windows, macOS, 
+Ubuntu o un software aggiuntivo di terze parti come WinZip, WinRAR o 7-Zip
+```
 |[**ISO**](https://github.com/CScorza/DistroForensics#iso)|[**Emulatori**](https://github.com/CScorza/DistroForensics#emulatori)|[**Virtualizzazione**](https://github.com/CScorza/DistroForensics#software-di-virtualizzazione)|[**USB LIVE**](https://github.com/CScorza/DistroForensics#software-montaggio-chiavetta-usb)|
 | :---: | :---: | :---: | :---: |
 
