@@ -32,7 +32,7 @@ Ubuntu o un software aggiuntivo di terze parti come WinZip, WinRAR o 7-Zip
 |![Forlex](https://user-images.githubusercontent.com/98583912/200109947-147dfdd4-ab95-4f45-9dbd-d66a1d9971d4.gif)|[**Forlex**](https://lnkd.in/dtXW7yv2)|**- CyberSecurity + Digital Forensics**|
 |![Paladin](https://user-images.githubusercontent.com/98583912/200123619-f4cdb6c2-e11a-4985-9fe1-91d5f5937242.gif)|[**PALADIN EDGE**](https://sumuri.com/product/paladin-edge-64-bit/)|**- Digital Forensics**|
 |![Immagine2](https://user-images.githubusercontent.com/98583912/208097692-60ef1264-3809-4531-9160-73f37558ebfb.jpg)|[**Whonix**](https://www.whonix.org/)|**CyberSecurity + Privacy**|
-
+|![2023-03-15 15_23_18-ChallengerOS Live Data Recovery Operating System](https://user-images.githubusercontent.com/98583912/225338752-04b818b8-ae6a-4d50-a97a-e523517d3610.png)|[**ChallengerOS**](https://www.challengeros.com/)|**- Digital Forensics**|
 ## Virtual Machine OVA
 |[**GitHub - OffenOsint**](https://lnkd.in/dCjvQ8QG)|Virtual Machine - OSINT|
 | :--- | :--- |
