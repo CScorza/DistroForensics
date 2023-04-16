@@ -1,5 +1,7 @@
+![Home](https://user-images.githubusercontent.com/98583912/232338722-32b9df98-1a10-4223-84e2-83ab3898a276.gif)
 
-![Titolo](https://user-images.githubusercontent.com/98583912/199348596-cfb5765a-47b4-4e3b-b9f7-5ad80927289b.gif)
+[![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+
 
 # <p align="center" size="5"><br><b>Elenco di Distro WINDOWS - MacOS - Linux</b></p>
 
