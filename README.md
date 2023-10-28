@@ -44,6 +44,7 @@ Ubuntu o un software aggiuntivo di terze parti come WinZip, WinRAR o 7-Zip
 |[**GitHub - Remnux**](https://remnux.org/)|**Analysis Malware - Digital Forensics**|
 |[**Github - SANS/SIFT Workstation**](https://www.sans.org/tools/sift-workstation/)|**Digital Forensics**|
 |[**GitHub - OSINTko**](https://github.com/LinaYorda/OSINTko)|**OSINT**|
+|[**GitHub - CyberPunkOS**](https://github.com/cyberpunkOS/CyberPunkOS)|**OSINT**|
 
 ## ISO standard:
 |[**Ubuntu**](https://lnkd.in/deF4wffK)|[**Windows 11**](https://lnkd.in/dRbe3-YZ)|[**MacOs**](https://lnkd.in/djqJXc7R)|
