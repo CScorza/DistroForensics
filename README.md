@@ -36,7 +36,7 @@ Ubuntu o un software aggiuntivo di terze parti come WinZip, WinRAR o 7-Zip
 |![Immagine2](https://user-images.githubusercontent.com/98583912/208097692-60ef1264-3809-4531-9160-73f37558ebfb.jpg)|[**Whonix**](https://www.whonix.org/)|**CyberSecurity + Privacy**|
 |![2023-03-15 15_23_18-ChallengerOS Live Data Recovery Operating System](https://user-images.githubusercontent.com/98583912/225338752-04b818b8-ae6a-4d50-a97a-e523517d3610.png)|[**ChallengerOS**](https://www.challengeros.com/)|**- Digital Forensics**|
 ## Virtual Machine OVA
-|[**GitHub - OffenOsint**](https://lnkd.in/dCjvQ8QG)|Virtual Machine - OSINT|
+|[**GitHub - AnuBitux**](https://github.com/AnuBitux)|Virtual Machine - OSINT - CryptoCurrencies|
 | :--- | :--- |
 |[**GitHub - Commando-VM**](https://lnkd.in/dVvG5Ctp)|**CyberSec**|
 |[**GitHub - ThreatPursuit-VM**](https://github.com/mandiant/ThreatPursuit-VM)|**Cyber threat intelligence**|
